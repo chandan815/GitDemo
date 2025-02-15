@@ -1,4 +1,4 @@
-package com.Git.GitDemo;
+package com.Git.user;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
