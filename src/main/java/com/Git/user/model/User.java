@@ -27,5 +27,15 @@ public class User {
 
     private  int id;
     private String userName;
+
+    public String getEmail() {
+        return Email;
+    }
+
+    public void setEmail(String email) {
+        Email = email;
+    }
+
     private String password;
+    private  String Email;
 }
